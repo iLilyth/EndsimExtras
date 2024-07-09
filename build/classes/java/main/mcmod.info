@@ -1,0 +1,16 @@
+[
+{
+  "modid": "endsimextras",
+  "name": "Endsim-Extras",
+  "description": "Utility mod for Endsim.net",
+  "version": "2.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iLilyth"],
+  "credits": "iLilyth",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

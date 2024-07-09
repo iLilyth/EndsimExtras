@@ -1,0 +1,2 @@
+Biscuit @ https://biscuit.codes/mods/skyblockaddons/ - used their code as a reference to figure out how java worked
+Cakend @ Marvinschs#2416 - helped me figure out mixins!

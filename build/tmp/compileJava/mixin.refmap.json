@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "com/lilyth/modules/mixins/MixinExample": {
+      "initGui": "Lnet/minecraft/client/gui/GuiMerchant;func_73866_w_()V"
+    }
+  },
+  "data": {
+    "notch": {
+      "com/lilyth/modules/mixins/MixinExample": {
+        "initGui": "Lazd;b()V"
+      }
+    },
+    "searge": {
+      "com/lilyth/modules/mixins/MixinExample": {
+        "initGui": "Lnet/minecraft/client/gui/GuiMerchant;func_73866_w_()V"
+      }
+    }
+  }
+}

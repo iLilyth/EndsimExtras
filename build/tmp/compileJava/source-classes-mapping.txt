@@ -1,0 +1,42 @@
+com/lilyth/modules/features/notifiers/DivineSuperior.java
+ com.lilyth.modules.features.notifiers.DivineSuperior
+com/lilyth/EndsimExtras.java
+ com.lilyth.EndsimExtras
+com/lilyth/modules/commands/vigilance/ExampleCommand.java
+ com.lilyth.modules.commands.vigilance.ExampleCommand
+com/lilyth/config/Config.java
+ com.lilyth.config.Config
+com/lilyth/modules/features/copychat/CopyChat.java
+ com.lilyth.modules.features.copychat.CopyChat
+com/lilyth/modules/features/copychat/AutoCopyChat.java
+ com.lilyth.modules.features.copychat.AutoCopyChat
+com/lilyth/modules/features/utils/EndermanWaypoints.java
+ com.lilyth.modules.features.utils.EndermanWaypoints
+com/lilyth/modules/features/utils/DamageFormatting.java
+ com.lilyth.modules.features.utils.DamageFormatting
+com/lilyth/modules/utils/InventoryUtils.java
+ com.lilyth.modules.utils.InventoryUtils
+com/lilyth/modules/utils/Utils.java
+ com.lilyth.modules.utils.Utils
+com/lilyth/modules/mixins/MixinExample.java
+ com.lilyth.modules.mixins.MixinExample
+com/lilyth/modules/features/hud/PingCounter.java
+ com.lilyth.modules.features.hud.PingCounter
+com/lilyth/modules/trackers/FirstLoad.java
+ com.lilyth.modules.trackers.FirstLoad
+com/lilyth/modules/utils/NumberFormatter.java
+ com.lilyth.modules.utils.NumberFormatter
+com/lilyth/modules/features/hud/FPScounter.java
+ com.lilyth.modules.features.hud.FPScounter
+com/lilyth/modules/features/random/DragonSpawn.java
+ com.lilyth.modules.features.random.DragonSpawn
+com/lilyth/modules/features/hud/ToggleSprint.java
+ com.lilyth.modules.features.hud.ToggleSprint
+com/lilyth/modules/features/notifiers/RareDropNotifier.java
+ com.lilyth.modules.features.notifiers.RareDropNotifier
+com/lilyth/modules/trackers/EyesDropped.java
+ com.lilyth.modules.trackers.EyesDropped
+ com.lilyth.modules.trackers.EyesDropped$1
+ com.lilyth.modules.trackers.EyesDropped$2
+com/lilyth/modules/utils/DisableEndermanTP.java
+ com.lilyth.modules.utils.DisableEndermanTP
