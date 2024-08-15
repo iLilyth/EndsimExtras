@@ -10,55 +10,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD:.idea/workspace.xml
     <list default="true" id="d0680044-cc56-415e-87a8-a8950c47ab5c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/artifacts/CopyMod.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/artifacts/CopyResources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/CREDITS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/EndsimExtras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/config/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/commands/vigilance/ExampleCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/copychat/AutoCopyChat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/copychat/CopyChat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/hud/FPScounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/hud/PingCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/hud/ToggleSprint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/notifiers/DivineSuperior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/notifiers/RareDropNotifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/random/DragonSpawn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/utils/DamageFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/features/utils/EndermanWaypoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/mixins/MixinExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/trackers/EyesDropped.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/trackers/FirstLoad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/utils/DisableEndermanTP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/utils/InventoryUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/utils/NumberFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/java/com/lilyth/modules/utils/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/resources/mcmod.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSNEforge/src/main/resources/mixins.endsimextras.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsneforge-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/EndsimExtras.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/EndsimExtras.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/EndsimExtras.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/EndsimExtras.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/EndsimExtras.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/EndsimExtras.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/EndsimExtras.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/EndsimExtras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/copychat/AutoCopyChat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/copychat/AutoCopyChat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/copychat/CopyChat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/copychat/CopyChat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/hud/ToggleSprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/hud/ToggleSprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/notifiers/RareDropNotifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/notifiers/RareDropNotifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/random/DragonSpawn.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/random/DragonSpawn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/utils/DamageFormatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/utils/DamageFormatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/utils/EndermanWaypoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/features/utils/EndermanWaypoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/trackers/EyesDropped.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/trackers/EyesDropped.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/trackers/FirstLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/trackers/FirstLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/InventoryUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/InventoryUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/NumberFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/NumberFormatter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/lilyth/modules/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/mixins.endsimextras.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/mixins.endsimextras.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/EndsimExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/EndsimExtras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/AutoCopyChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/CopyChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/DamageFormatting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/DisableEndermanTP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/DivineSuperior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/DragonSpawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/EndermanWaypoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/EyesDropped.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/FPScounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/FirstLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/FullInventoryWarning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/PingCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/RareDropNotifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/ToggleSprint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/commands/vigilance/ExampleCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/commands/vigilance/ExampleCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/copychat/CopyChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/copychat/CopyChat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/FPScounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/FPScounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/PingCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/PingCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/ToggleSprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/hud/ToggleSprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/notifiers/DivineSuperior.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/notifiers/DivineSuperior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/notifiers/RareDropNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/notifiers/RareDropNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/random/DragonSpawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/random/DragonSpawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/utils/DamageFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/utils/DamageFormatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/utils/EndermanWaypoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/features/utils/EndermanWaypoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/mixins/MixinExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/mixins/MixinExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/trackers/FirstLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/trackers/FirstLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/DisableEndermanTP.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/DisableEndermanTP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/InventoryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/InventoryUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/NumberFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/NumberFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/lilyth/modules/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilyth/EndsimExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lilyth/EndsimExtras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lilyth/modules/features/hud/ToggleSprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lilyth/modules/features/hud/ToggleSprint.java" afterDir="false" />
     </list>
-=======
-    <list default="true" id="d0680044-cc56-415e-87a8-a8950c47ab5c" name="Changes" comment="" />
->>>>>>> c6c3de941691607fc9d4c3849bb93801c3819eb1:DSNEforge/.idea/workspace.xml
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,16 +95,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="DSNEforge" type="f1a62948:ProjectNode" />
+                <item name="EndsimExtras" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="DSNEforge" type="f1a62948:ProjectNode" />
+                <item name="EndsimExtras" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="DSNEforge" type="f1a62948:ProjectNode" />
+                <item name="EndsimExtras" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="forgegradle" type="c8890929:TasksNode$1" />
               </path>
@@ -127,32 +142,18 @@
     <option name="showScratchesAndConsoles" value="false" />
     <option name="sortByType" value="true" />
   </component>
-<<<<<<< HEAD:.idea/workspace.xml
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nhgf1/OneDrive/Documents/GitHub/DSNEforge/DSNEforge/DSNEforge/build.gradle&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nhgf1/OneDrive/Documents/GitHub/EndsimExtras&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15332031&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.23094688&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
-=======
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "OverrideImplement.generate.javadoc": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/nhgf1/OneDrive/Documents/GitHub/EndsimExtras",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15332031",
-    "project.structure.side.proportion": "0.2773261",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
->>>>>>> c6c3de941691607fc9d4c3849bb93801c3819eb1:DSNEforge/.idea/workspace.xml
+    &quot;project.structure.side.proportion&quot;: &quot;0.2773261&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -166,7 +167,7 @@
     <configuration name="Minecraft Client" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <module name="DSNEforge.main" />
+      <module name="EndsimExtras.main" />
       <option name="PROGRAM_PARAMETERS" value="--tweakClass gg.essential.loader.stage0.EssentialSetupTweaker --mixin mixins.endsimextras.json" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
       <RunnerSettings RunnerId="Run" />

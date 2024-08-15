@@ -2,6 +2,7 @@ package com.lilyth.modules.features.utils;
 
 import com.lilyth.EndsimExtras;
 import com.lilyth.config.Config;
+import com.lilyth.modules.utils.Utils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.renderer.GlStateManager;
@@ -22,6 +23,7 @@ public class EndermanWaypoints {
     @SubscribeEvent
     public void endermanWaypoints(RenderLivingEvent.Specials.Pre<EntityLivingBase> e) {
         if(!config.ENDERMAN_WAYPOINTS) return;
+        if(!Utils.isOnEndsim()) return;
         Minecraft mc = Minecraft.getMinecraft();
         Entity entity = e.entity;
         if (entity instanceof EntityEnderman) {

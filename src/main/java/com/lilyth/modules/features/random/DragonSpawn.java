@@ -17,6 +17,7 @@ public class DragonSpawn {
     @SubscribeEvent
     public void dragonSpawn(ClientChatReceivedEvent e) {
         if(!config.DRAGON_SPAWN) return;
+        if(!Utils.isOnEndsim()) return;
         String msg = e.message.getUnformattedText();
         if(msg.startsWith("* The Dragon Egg has spawned!")){
             Utils.showTitle(ChatColor.WHITE, "DRAGON EGG SPAWNED!", 20);
@@ -28,6 +29,7 @@ public class DragonSpawn {
     @SubscribeEvent
     public void dragonSpawnGUI(TickEvent.RenderTickEvent event){
         if(mc.thePlayer == null || mc.theWorld == null || !config.DRAGON_TIMER) return;
+        if(!Utils.isOnEndsim()) return;
         mc.fontRendererObj.drawStringWithShadow("Dragon spawn in: " + (float)(respawnTimer / 20) + "s", ((float)mc.displayWidth / 200) * config.DRAGON_TIMER_X, ((float)mc.displayHeight / 200) * config.DRAGON_TIMER_Y, 0xFFFFFF);
     }
     @SubscribeEvent

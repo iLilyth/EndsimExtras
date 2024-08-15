@@ -13,6 +13,7 @@ public class DivineSuperior {
     @SubscribeEvent
     public void divineSuperior(ClientChatReceivedEvent event) {
         if(!config.DRAGON_NOTIFIER) return;
+        if(!Utils.isOnEndsim()) return;
         if (event.message.getUnformattedText().startsWith("* The SUPERIOR Dragon has spawned!")) {
             Utils.showTitle(ChatColor.GOLD, "SUPERIOR!", 40);
         }

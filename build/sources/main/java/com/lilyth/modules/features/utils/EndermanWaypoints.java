@@ -1,8 +1,8 @@
-package com.lilyth.modules;
+package com.lilyth.modules.features.utils;
 
 import com.lilyth.EndsimExtras;
 import com.lilyth.config.Config;
-import com.lilyth.utils.Utils;
+import com.lilyth.modules.utils.Utils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.renderer.GlStateManager;
@@ -20,10 +20,10 @@ import org.lwjgl.opengl.GL11;
 
 public class EndermanWaypoints {
     public final Config config = EndsimExtras.config;
-
     @SubscribeEvent
     public void endermanWaypoints(RenderLivingEvent.Specials.Pre<EntityLivingBase> e) {
-        if (!config.ENDERMAN_WAYPOINTS || !Utils.isOnEndsim()) return;
+        if(!config.ENDERMAN_WAYPOINTS) return;
+        if(!Utils.isOnEndsim()) return;
         Minecraft mc = Minecraft.getMinecraft();
         Entity entity = e.entity;
         if (entity instanceof EntityEnderman) {
@@ -36,7 +36,7 @@ public class EndermanWaypoints {
             float viewerPitch = mc.thePlayer.rotationPitch;
             RenderManager renderManager = mc.getRenderManager();
             double distanceScale = 0.003;
-            double distance = Minecraft.getMinecraft().thePlayer.getDistance((double) x, (double) y, (double) z);
+            double distance = Minecraft.getMinecraft().thePlayer.getDistance((double)x, (double)y, (double)z);
             GlStateManager.pushMatrix();
             GlStateManager.translate(x - renderManager.viewerPosX, y - renderManager.viewerPosY + entity.height - 1.5D, z - renderManager.viewerPosZ);
             GlStateManager.rotate(-viewerYaw, 0.0F, 1.0F, 0.0F);

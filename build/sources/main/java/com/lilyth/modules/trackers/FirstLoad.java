@@ -1,4 +1,4 @@
-package com.lilyth.modules;
+package com.lilyth.modules.trackers;
 
 import com.google.gson.Gson;
 import org.apache.commons.io.FileUtils;
@@ -15,7 +15,7 @@ public class FirstLoad {
             File theDir = new File("./config/EndsimExtras");
             if (!theDir.exists()) FileUtils.forceMkdir(theDir);
             File storage = new File("./config/EndsimExtras/dropstorage.json");
-            if (storage.createNewFile()) {
+            if(storage.createNewFile()){
                 Gson gson = new Gson();
                 Map<String, Integer> map = new HashMap<>();
                 map.put("placed1", 0);

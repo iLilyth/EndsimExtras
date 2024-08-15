@@ -2,6 +2,7 @@ package com.lilyth.modules.features.copychat;
 
 import com.lilyth.EndsimExtras;
 import com.lilyth.config.Config;
+import com.lilyth.modules.utils.Utils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.ChatComponentText;
 import net.minecraft.util.ChatStyle;
@@ -20,6 +21,7 @@ public class AutoCopyChat {
     @SubscribeEvent
     public void autoCopyChat(ClientChatReceivedEvent e) {
         if(!config.AUTO_COPY_CHAT) return;
+        if(!Utils.isOnEndsim()) return;
         Minecraft mc = Minecraft.getMinecraft();
         String msg = e.message.getUnformattedText();
         StringSelection stringSelection = new StringSelection(msg);

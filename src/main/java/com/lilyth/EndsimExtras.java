@@ -29,7 +29,7 @@ import net.minecraftforge.fml.common.event.*;
 public class EndsimExtras {
     public static final String MODID = "endsimextras";
     public static final String MOD_NAME = "Endsim-Extras";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "2.0.1";
     public static final String MC_VERSION = "1.8.9";
     public static EndsimExtras instance;
 

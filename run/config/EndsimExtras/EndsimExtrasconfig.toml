@@ -1,0 +1,48 @@
+
+["!features"]
+
+	["!features".togglesprint]
+		togglesprint = true
+		togglesprint_y = 5
+		togglesprint_x = 1
+
+	["!features".dragon_spawn_timer]
+		dragon_spawn_timer = true
+		dragon_spawn_timer_y = 5
+		dragon_spawn_timer_x = 1
+
+	["!features".copy_chat]
+		copy_chat = true
+		automatically_copy_rare_drops = true
+		auto_copy_rare_drop_filter = 1
+
+	["!features".notifiers]
+		dragon_notifier = true
+		dragon_egg_spawn_notifier = true
+
+	["!features".rare_drops]
+		rare_drop_notifier = true
+
+["!visual"]
+
+	["!visual".eye_display]
+		eye_display = true
+		eye_display_y = 5
+		eye_display_x = 1
+
+	["!visual".fps_counter]
+		fps_counter = true
+		fps_counter_y = 3
+		fps_counter_x = 1
+
+	["!visual".ping_counter]
+		ping_counter_y = 5
+		ping_counter_x = 1
+		ping_counter = true
+
+	["!visual".misc]
+		disable_enderman_teleport = true
+
+	["!visual".enderman_waypoints]
+		enderman_waypoints = true
+

@@ -78,6 +78,7 @@ public class Config extends Vigilant {
     public int PING_COUNTER_X = 1;
 
 
+
     @Property(
             type = PropertyType.SLIDER,
             name = "Ping counter Y",
@@ -107,6 +108,7 @@ public class Config extends Vigilant {
             max = 100
     )
     public int EYE_DISPLAY_X = 1;
+
 
 
     @Property(
@@ -176,11 +178,11 @@ public class Config extends Vigilant {
     @Property(
             type = PropertyType.SLIDER,
             name = "Auto copy rare drop filter",
-            description = "0 = filter none, 1 = filter RARE DROP! (+ yolks), 2 = filter CRAZY RARE DROP!, 4 = filter RNGesus INCARNATE! + INSANE DROP!",
+            description = "0=none, 1=summoning eye, 2=ice eye, 3=cosmic eye, 4=radioactive eye, 5=flaming eye, 6=divine ameliorate/eye",
             category = "!Features",
             subcategory = "Copy chat",
             min = 0,
-            max = 4
+            max = 6
     )
     public int AUTO_COPY_CHAT_FILTER = 1;
 
@@ -223,6 +225,7 @@ public class Config extends Vigilant {
     public int AUTOSPRINT_X = 1;
 
 
+
     @Property(
             type = PropertyType.SLIDER,
             name = "Togglesprint Y",
@@ -254,6 +257,7 @@ public class Config extends Vigilant {
     public int DRAGON_TIMER_X = 1;
 
 
+
     @Property(
             type = PropertyType.SLIDER,
             name = "Dragon Spawn Timer Y",
@@ -264,6 +268,7 @@ public class Config extends Vigilant {
             max = 100
     )
     public int DRAGON_TIMER_Y = 5;
+
 
 
     public Config() {

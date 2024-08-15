@@ -1,0 +1,201 @@
+[19:21:02] [Client thread/INFO]: Setting user: Player406
+[19:21:07] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:21:18] [Client thread/INFO]: Reloading ResourceManager: Essential Assets, Essential (forge_1.8.9).processed.jar, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essential, FMLFileResourcePack:Endsim-Extras
+[19:21:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:21:19] [Thread-17/INFO]: Initializing LWJGL OpenAL
+[19:21:19] [Thread-17/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:21:19] [Thread-17/INFO]: OpenAL initialized.
+[19:21:19] [Sound Library Loader/INFO]: Sound engine started
+[19:21:26] [Client thread/INFO]: Created: 16x16 textures-atlas
+[19:21:28] [Client thread/INFO]: Reloading ResourceManager: Essential Assets, Essential (forge_1.8.9).processed.jar, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essential, FMLFileResourcePack:Endsim-Extras
+[19:21:28] [Client thread/INFO]: SoundSystem shutting down...
+[19:21:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:21:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:21:28] [Thread-19/INFO]: Initializing LWJGL OpenAL
+[19:21:28] [Thread-19/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:21:28] [Thread-19/INFO]: OpenAL initialized.
+[19:21:29] [Sound Library Loader/INFO]: Sound engine started
+[19:21:35] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:22:04] [pool-2-thread-1/ERROR]: Signature is missing from textures payload
+[19:22:04] [Client thread/ERROR]: Signature is missing from textures payload
+[19:22:13] [Client thread/INFO]: Connecting to mc.endsim.net., 25565
+[19:22:15] [Client thread/INFO]: [CHAT] [HolographicDisplays] Found an update: v3.0.4. Download:
+[19:22:15] [Client thread/INFO]: [CHAT] >> http://dev.bukkit.org/bukkit-plugins/holographic-displays
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] [Trade] A new update is available [Minecraft 1.20.4 Support]. You are 1 release(s) behind. Download it on https://www.spigotmc.org/resources/58434/update?update=534668
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] An update for PlaceholderAPI (PlaceholderAPI v2.11.6)
+[19:22:15] [Client thread/INFO]: [CHAT] is available at https://www.spigotmc.org/resources/placeholderapi.6245/
+[19:22:15] [Client thread/INFO]: [CHAT] + [ADMIN]iLilyth
+[19:22:15] [Client thread/INFO]: [CHAT] Welcome, iLilyth!
+[19:22:15] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[19:22:15] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[19:22:15] [Client thread/INFO]: [CHAT] Players online: 7 - World time: 6:00 AM
+[19:22:15] [Client thread/INFO]: [CHAT] You have no new mail.
+[19:22:15] [Client thread/INFO]: [CHAT] Your player data has been loaded!
+[19:22:15] [Client thread/INFO]: [CHAT] You're 31 EssentialsX dev build(s) out of date!
+[19:22:15] [Client thread/INFO]: [CHAT] Download it here: https://essentialsx.net/downloads.html
+[19:22:15] [Client thread/INFO]: [CHAT] Dragon down!
+[19:22:15] [Client thread/INFO]: [CHAT] ----------------------------
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] YOUNG DRAGON DOWN!
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] 1st Damager - MaybeAzora - 37,988,258
+[19:22:15] [Client thread/INFO]: [CHAT] 2nd Damager - Egesss - 27,201,385
+[19:22:15] [Client thread/INFO]: [CHAT] 3rd Damager - N/A - N/A
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] Your Damage: N/A
+[19:22:15] [Client thread/INFO]: [CHAT] 
+[19:22:15] [Client thread/INFO]: [CHAT] ----------------------------
+[19:22:18] [Client thread/INFO]: [CHAT] Egesss just dropped a Shadow Assassin Boots
+[19:22:18] [Client thread/ERROR]: Signature is missing from textures payload
+[19:22:23] [Client thread/INFO]: [CHAT] [MVP++]Jonnieee: lilith
+[19:22:25] [Client thread/INFO]: [CHAT] * The Dragon Egg has spawned!
+[19:22:26] [Client thread/INFO]: [CHAT] * Egesss placed a Summoning Eye! (1/8)
+[19:22:27] [Client thread/INFO]: [CHAT] * Egesss placed a Summoning Eye! (2/8)
+[19:22:27] [Client thread/INFO]: [CHAT] * Egesss placed a Summoning Eye! (3/8)
+[19:22:27] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:27] [Client thread/INFO]: [CHAT] * MaybeAzora placed a Summoning Eye! (4/8)
+[19:22:28] [Client thread/INFO]: [CHAT] * MaybeAzora placed a Summoning Eye! (5/8)
+[19:22:28] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:28] [Client thread/INFO]: [CHAT] * MaybeAzora placed a Summoning Eye! (6/8)
+[19:22:29] [Client thread/INFO]: [CHAT] Drop copied to clipboard!
+[19:22:29] [Client thread/INFO]: [CHAT] INSANE DROP! Divine Ameliorate (+307 Magic Find) (x2 Dichroic Bonus)
+[19:22:31] [Client thread/INFO]: [CHAT] * Egesss placed a Summoning Eye! (7/8)
+[19:22:33] [Client thread/INFO]: [CHAT] [MVP++]Jonnieee: does server run off a potato?
+[19:22:34] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:38] [Client thread/INFO]: [CHAT] * Egesss placed a Summoning Eye! (8/8)
+[19:22:38] [Client thread/INFO]: [CHAT] Your Sleeping Eyes have been awoken by the magic of the
+[19:22:38] [Client thread/INFO]: [CHAT] Dragon. They are now Remnants of the Eye!
+[19:22:38] [Client thread/INFO]: [CHAT] * The WISE Dragon has spawned!
+[19:22:39] [Client thread/INFO]: [CHAT] - [MOD]SuperFluffy156
+[19:22:41] [Client thread/INFO]: [CHAT] [VIP+]Riot1x: Jonnieee u shoulda waited to get refunded for the booster
+[19:22:45] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:45] [Client thread/INFO]: [CHAT] [VIP+]Riot1x: cuz its legit useless rn
+[19:22:45] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:47] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:48] [Client thread/INFO]: [CHAT] RARE DROP! Summoning Eye (+297 Magic Find) (x2 Dichroic Bonus)
+[19:22:48] [Client thread/INFO]: [CHAT] Used Heavenly Bolt! (50 Mana)
+[19:22:49] [Client thread/INFO]: [CHAT] + [MOD]SuperFluffy156
+[19:22:51] [Client thread/INFO]: [CHAT] [MVP++]Jonnieee: eh
+[19:22:52] [Client thread/INFO]: [CHAT] Dragon down!
+[19:22:52] [Client thread/INFO]: [CHAT] ----------------------------
+[19:22:52] [Client thread/INFO]: [CHAT] 
+[19:22:52] [Client thread/INFO]: [CHAT] WISE DRAGON DOWN!
+[19:22:52] [Client thread/INFO]: [CHAT] 
+[19:22:52] [Client thread/INFO]: [CHAT] 1st Damager - Egesss - 55,697,260
+[19:22:52] [Client thread/INFO]: [CHAT] 2nd Damager - MaybeAzora - 5,180,217
+[19:22:52] [Client thread/INFO]: [CHAT] 3rd Damager - N/A - N/A
+[19:22:52] [Client thread/INFO]: [CHAT] 
+[19:22:52] [Client thread/INFO]: [CHAT] Your Damage: N/A
+[19:22:52] [Client thread/INFO]: [CHAT] 
+[19:22:52] [Client thread/INFO]: [CHAT] ----------------------------
+[19:22:53] [Client thread/ERROR]: Signature is missing from textures payload
+[19:22:55] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_412]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_412]
+	at net.minecraft.util.Util.runTask(Util.java:23) [Util.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1090) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:384) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:110) [stage1.jar:5]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:5]
+	at gg.essential.loader.stage1.DelayedStage0Tweaker.<init>(DelayedStage0Tweaker.java:37) [stage1.jar:5]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_412]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_412]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_412]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_412]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_412]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:95) [start/:?]
+	at GradleStart.main(GradleStart.java:24) [start/:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.client.network.NetHandlerPlayClient.handleEntityProperties(NetHandlerPlayClient.java:2053) ~[NetHandlerPlayClient.class:?]
+	at net.minecraft.network.play.server.S20PacketEntityProperties.processPacket(S20PacketEntityProperties.java:88) ~[S20PacketEntityProperties.class:?]
+	at net.minecraft.network.play.server.S20PacketEntityProperties.processPacket(S20PacketEntityProperties.java:16) ~[S20PacketEntityProperties.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_412]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_412]
+	at net.minecraft.util.Util.runTask(Util.java:22) ~[Util.class:?]
+	... 37 more
+[19:22:55] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_412]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_412]
+	at net.minecraft.util.Util.runTask(Util.java:23) [Util.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1090) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:384) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:116) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:110) [stage1.jar:5]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:5]
+	at gg.essential.loader.stage1.DelayedStage0Tweaker.<init>(DelayedStage0Tweaker.java:37) [stage1.jar:5]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_412]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_412]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_412]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_412]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_412]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_412]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_412]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_412]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_412]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:95) [start/:?]
+	at GradleStart.main(GradleStart.java:24) [start/:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.client.network.NetHandlerPlayClient.handleUpdateHealth(NetHandlerPlayClient.java:1045) ~[NetHandlerPlayClient.class:?]
+	at net.minecraft.network.play.server.S06PacketUpdateHealth.processPacket(S06PacketUpdateHealth.java:52) ~[S06PacketUpdateHealth.class:?]
+	at net.minecraft.network.play.server.S06PacketUpdateHealth.processPacket(S06PacketUpdateHealth.java:10) ~[S06PacketUpdateHealth.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_412]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_412]
+	at net.minecraft.util.Util.runTask(Util.java:22) ~[Util.class:?]
+	... 37 more
+[19:22:55] [Client thread/ERROR]: Signature is missing from textures payload
+[19:22:56] [Client thread/INFO]: Stopping!
+[19:22:56] [Client thread/INFO]: SoundSystem shutting down...
+[19:22:56] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

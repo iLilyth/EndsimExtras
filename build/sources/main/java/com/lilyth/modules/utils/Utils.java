@@ -1,4 +1,4 @@
-package com.lilyth.utils;
+package com.lilyth.modules.utils;
 
 import gg.essential.universal.ChatColor;
 import net.minecraft.client.Minecraft;
@@ -16,4 +16,5 @@ public class Utils {
     public static void showTitle(ChatColor chatColor, String text, Integer displayTime){
         Minecraft.getMinecraft().ingameGUI.displayTitle(chatColor + text, "", 0, displayTime, 0);
     }
+
 }

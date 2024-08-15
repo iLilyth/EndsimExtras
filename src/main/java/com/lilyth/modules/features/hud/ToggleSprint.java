@@ -5,6 +5,7 @@ import com.lilyth.config.Config;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.gameevent.InputEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 
 public class ToggleSprint {
@@ -15,22 +16,17 @@ public class ToggleSprint {
     public KeyBinding toggleKey = Minecraft.getMinecraft().gameSettings.keyBindSprint;
 
     @SubscribeEvent
-    public void autoSprint(TickEvent.ClientTickEvent event){
+    public void toggleToggleSprint(InputEvent.KeyInputEvent e) {
         if(mc.thePlayer == null || mc.theWorld == null || !config.AUTOSPRINT) return;
-        if(cooldown!=0){
-            cooldown = cooldown - 1;
+        if(toggleKey.isKeyDown()){
+            isToggled = !isToggled;
         }
-        if(cooldown==0){
-            if (toggleKey.isKeyDown()) {
-                isToggled = !isToggled;
-                cooldown = 20;
-            }
-        }
-        if (isToggled && mc.thePlayer.moveForward > 0) {
-            if(!mc.thePlayer.isSneaking()){
-                mc.thePlayer.setSprinting(true);
-            }
-        }
+    }
+
+    @SubscribeEvent
+    public void autoSprint(TickEvent.ClientTickEvent event){
+        if(mc.thePlayer == null || mc.theWorld == null || !config.AUTOSPRINT || isToggled && mc.thePlayer.moveForward > 0 && !mc.thePlayer.isSneaking()) return;
+        mc.thePlayer.setSprinting(true);
     }
     @SubscribeEvent
     public void autoSprintGUI(TickEvent.RenderTickEvent event){

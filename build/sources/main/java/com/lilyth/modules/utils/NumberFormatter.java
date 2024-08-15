@@ -1,4 +1,4 @@
-package com.lilyth.utils;
+package com.lilyth.modules.utils;
 
 import java.util.Map;
 import java.util.NavigableMap;
@@ -25,7 +25,7 @@ public class NumberFormatter {
         String suffix = e.getValue();
 
         long truncated = value / (divideBy / 10);
-        boolean hasDecimal = truncated < 100 && (truncated / 10d) != ((double) truncated / 10);
+        boolean hasDecimal = truncated < 100 && (truncated / 10d) != (truncated / 10);
         return hasDecimal ? (truncated / 10d) + suffix : (truncated / 10) + suffix;
     }
 }
